@@ -1,0 +1,3 @@
+FROM nginx
+LABEL maintainer="Salle MPWAR Maintainers"
+RUN apt-get update

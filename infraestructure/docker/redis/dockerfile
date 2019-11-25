@@ -1,0 +1,3 @@
+FROM redis
+LABEL maintainer="Salle MPWAR Maintainers"
+RUN apt-get update
